@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Datasets
+data/
+dataset/
+dataset_split/
+data_uji_tanpa_augmentasi/
+data_uji_dengan_augmentasi/
+
+# Feature caches and trained models
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Local configuration
+.env
+.env.*
+credentials.json
