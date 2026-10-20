@@ -1,0 +1,12 @@
+# Broad dependencies used in the research notebooks.
+# Exact original environment versions were not recorded; these are not locked.
+tensorflow
+numpy
+pandas
+scikit-learn
+scikit-image
+opencv-python
+matplotlib
+seaborn
+joblib
+Pillow

@@ -1,0 +1,4 @@
+configuration,internal_accuracy_approx_pct,external_original_accuracy_pct,external_ai_edited_accuracy_pct,source
+VGG16 + LBP + SVM,95,71,77,original notebook saved outputs
+VGG16 + GLCM + SVM,95,76,74,original notebook saved outputs
+VGG16 + HSV + SVM,95,74,80,original notebook saved outputs
